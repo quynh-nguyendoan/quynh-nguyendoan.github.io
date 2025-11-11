@@ -23,7 +23,6 @@ Work experience
 
 * Summer 2022: American Economics Association (AEA) Pre-Doctoral Scholar
   * Hosted at Howard University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
 
 
