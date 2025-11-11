@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Sociology, University of Texas at Austin, 2026 (expected)
+* Ph.D in Sociology, University of Texas at Austin, 2030 (expected)
 * B.A. in Economics, Haverford College, 2021
 
 Work experience
